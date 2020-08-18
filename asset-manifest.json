@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coffeeLoverAborn/static/css/main.df78a8c9.chunk.css",
+    "main.js": "/coffeeLoverAborn/static/js/main.4bfa5ce2.chunk.js",
+    "main.js.map": "/coffeeLoverAborn/static/js/main.4bfa5ce2.chunk.js.map",
+    "runtime-main.js": "/coffeeLoverAborn/static/js/runtime-main.9e6d69ef.js",
+    "runtime-main.js.map": "/coffeeLoverAborn/static/js/runtime-main.9e6d69ef.js.map",
+    "static/js/2.aa1085e3.chunk.js": "/coffeeLoverAborn/static/js/2.aa1085e3.chunk.js",
+    "static/js/2.aa1085e3.chunk.js.map": "/coffeeLoverAborn/static/js/2.aa1085e3.chunk.js.map",
+    "index.html": "/coffeeLoverAborn/index.html",
+    "precache-manifest.f9ede22fdf22daa5fd18e366260349af.js": "/coffeeLoverAborn/precache-manifest.f9ede22fdf22daa5fd18e366260349af.js",
+    "service-worker.js": "/coffeeLoverAborn/service-worker.js",
+    "static/css/main.df78a8c9.chunk.css.map": "/coffeeLoverAborn/static/css/main.df78a8c9.chunk.css.map",
+    "static/js/2.aa1085e3.chunk.js.LICENSE.txt": "/coffeeLoverAborn/static/js/2.aa1085e3.chunk.js.LICENSE.txt",
+    "static/media/96dpi.jpg": "/coffeeLoverAborn/static/media/96dpi.4aaf53e1.jpg",
+    "static/media/96dpi2.jpg": "/coffeeLoverAborn/static/media/96dpi2.5a16a047.jpg",
+    "static/media/logo.png": "/coffeeLoverAborn/static/media/logo.9c3ed713.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e6d69ef.js",
+    "static/js/2.aa1085e3.chunk.js",
+    "static/css/main.df78a8c9.chunk.css",
+    "static/js/main.4bfa5ce2.chunk.js"
+  ]
+}
