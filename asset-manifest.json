@@ -1,25 +1,29 @@
 {
   "files": {
     "main.css": "/coffeeLoverAborn/static/css/main.df78a8c9.chunk.css",
-    "main.js": "/coffeeLoverAborn/static/js/main.4bfa5ce2.chunk.js",
-    "main.js.map": "/coffeeLoverAborn/static/js/main.4bfa5ce2.chunk.js.map",
+    "main.js": "/coffeeLoverAborn/static/js/main.9c5c9191.chunk.js",
+    "main.js.map": "/coffeeLoverAborn/static/js/main.9c5c9191.chunk.js.map",
     "runtime-main.js": "/coffeeLoverAborn/static/js/runtime-main.9e6d69ef.js",
     "runtime-main.js.map": "/coffeeLoverAborn/static/js/runtime-main.9e6d69ef.js.map",
-    "static/js/2.aa1085e3.chunk.js": "/coffeeLoverAborn/static/js/2.aa1085e3.chunk.js",
-    "static/js/2.aa1085e3.chunk.js.map": "/coffeeLoverAborn/static/js/2.aa1085e3.chunk.js.map",
+    "static/js/2.a07497ef.chunk.js": "/coffeeLoverAborn/static/js/2.a07497ef.chunk.js",
+    "static/js/2.a07497ef.chunk.js.map": "/coffeeLoverAborn/static/js/2.a07497ef.chunk.js.map",
     "index.html": "/coffeeLoverAborn/index.html",
-    "precache-manifest.f9ede22fdf22daa5fd18e366260349af.js": "/coffeeLoverAborn/precache-manifest.f9ede22fdf22daa5fd18e366260349af.js",
+    "precache-manifest.4c666f063957a74b7bf88c39b01ea1b7.js": "/coffeeLoverAborn/precache-manifest.4c666f063957a74b7bf88c39b01ea1b7.js",
     "service-worker.js": "/coffeeLoverAborn/service-worker.js",
     "static/css/main.df78a8c9.chunk.css.map": "/coffeeLoverAborn/static/css/main.df78a8c9.chunk.css.map",
-    "static/js/2.aa1085e3.chunk.js.LICENSE.txt": "/coffeeLoverAborn/static/js/2.aa1085e3.chunk.js.LICENSE.txt",
-    "static/media/96dpi.jpg": "/coffeeLoverAborn/static/media/96dpi.4aaf53e1.jpg",
-    "static/media/96dpi2.jpg": "/coffeeLoverAborn/static/media/96dpi2.5a16a047.jpg",
-    "static/media/logo.png": "/coffeeLoverAborn/static/media/logo.9c3ed713.png"
+    "static/js/2.a07497ef.chunk.js.LICENSE.txt": "/coffeeLoverAborn/static/js/2.a07497ef.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/coffeeLoverAborn/static/media/logo.9c3ed713.png",
+    "static/media/lover tully 20210901 website-.jpg": "/coffeeLoverAborn/static/media/lover tully 20210901 website-.776d09d1.jpg",
+    "static/media/lover tully 20210901 website-3.jpg": "/coffeeLoverAborn/static/media/lover tully 20210901 website-3.9f59d1d4.jpg",
+    "static/media/lover tully 20210901 website-4.jpg": "/coffeeLoverAborn/static/media/lover tully 20210901 website-4.96142127.jpg",
+    "static/media/lover tully 20210901 website-5.jpg": "/coffeeLoverAborn/static/media/lover tully 20210901 website-5.74f64759.jpg",
+    "static/media/lover tully 20210901 website-6.jpg": "/coffeeLoverAborn/static/media/lover tully 20210901 website-6.421c2e1c.jpg",
+    "static/media/lover tully 20210901 website-7.jpg": "/coffeeLoverAborn/static/media/lover tully 20210901 website-7.64c2b1e5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9e6d69ef.js",
-    "static/js/2.aa1085e3.chunk.js",
+    "static/js/2.a07497ef.chunk.js",
     "static/css/main.df78a8c9.chunk.css",
-    "static/js/main.4bfa5ce2.chunk.js"
+    "static/js/main.9c5c9191.chunk.js"
   ]
 }
