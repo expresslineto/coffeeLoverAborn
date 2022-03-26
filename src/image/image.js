@@ -1,9 +1,8 @@
-import page1 from "./Aborn/lover tully 20210901 website-.jpg";
-import page2 from "./Aborn/lover tully 20210901 website-3.jpg";
-import page3 from "./Aborn/lover tully 20210901 website-4.jpg";
-import page4 from "./Aborn/lover tully 20210901 website-5.jpg";
-import page5 from "./Aborn/lover tully 20210901 website-6.jpg";
-import page6 from "./Aborn/lover tully 20210901 website-7.jpg";
+import page1 from "./Aborn/lover aborn 20220322.jpg";
+import page2 from "./Aborn/lover aborn 202203222.jpg";
+import page3 from "./Aborn/lover aborn 202203223.jpg";
+import page4 from "./Aborn/lover aborn 202203224.jpg";
+import page5 from "./Aborn/lover aborn 202203225.jpg";
 
 const listMenu = [{
         page: "1",
@@ -25,9 +24,9 @@ const listMenu = [{
         page: "5",
         itemsImage: page5,
     },
-    {
-        page: "6",
-        itemsImage: page6,
-    },
+    // {
+    //     page: "6",
+    //     itemsImage: page6,
+    // },
 ];
 export default listMenu;
