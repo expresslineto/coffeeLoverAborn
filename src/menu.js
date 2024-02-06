@@ -7,9 +7,7 @@ const useStyles = makeStyles((theme) => ({
     img: {
         margin: 0,
         display: "flex",
-
         maxWidth: "100vw",
-
         backgroundColor: "black",
         alignItems: "center",
     },
@@ -19,19 +17,16 @@ const useStyles = makeStyles((theme) => ({
 export default function menu(props) {
     // eslint-disable-next-line react-hooks/rules-of-hooks
     const classes = useStyles();
-    return ( <
-        div >
-        <
-        Paper >
-        <
-        figure className = { classes.img } >
-        <
-        img className = { classes.img }
+    return ( 
+    <div >
+        <Paper >
+        <figure className = { classes.img } >
+        <img className = { classes.img }
         alt = "complex"
         src = { props.itemsImage }
-        /> <
-        /figure> <
-        /Paper> <
-        /div>
+        /> 
+        </figure> 
+        </Paper> 
+        </div>
     );
 }

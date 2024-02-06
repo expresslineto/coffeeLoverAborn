@@ -14,7 +14,6 @@ const useStyles = makeStyles((theme) => ({
   img: {
     margin: 0,
     display: "flex",
-
     maxWidth: "100px",
     backgroundColor: "white",
     alignItems: "center",
