@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71e11b645ede46b0829519ec25f5c562",
+    "revision": "3260608287c6da39bc9b87a3439f9a04",
     "url": "/coffeeLoverAborn/index.html"
   },
   {
-    "revision": "13e07dce2b4290e75d21",
+    "revision": "6d896a9dbed3e3166550",
     "url": "/coffeeLoverAborn/static/css/main.b7834d50.chunk.css"
   },
   {
-    "revision": "0bcfd0e0076a1646b691",
-    "url": "/coffeeLoverAborn/static/js/2.1ef086fb.chunk.js"
+    "revision": "7903e0eb9602203d4e7e",
+    "url": "/coffeeLoverAborn/static/js/2.369d4cb3.chunk.js"
   },
   {
-    "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/coffeeLoverAborn/static/js/2.1ef086fb.chunk.js.LICENSE.txt"
+    "revision": "0749163b59fbee32225059cb60c18af6",
+    "url": "/coffeeLoverAborn/static/js/2.369d4cb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13e07dce2b4290e75d21",
-    "url": "/coffeeLoverAborn/static/js/main.2fd2c77d.chunk.js"
+    "revision": "6d896a9dbed3e3166550",
+    "url": "/coffeeLoverAborn/static/js/main.78893331.chunk.js"
   },
   {
-    "revision": "4e3d66c43880e6731ec0",
-    "url": "/coffeeLoverAborn/static/js/runtime-main.3a100bcb.js"
+    "revision": "a212ed7127eb701b9ef8",
+    "url": "/coffeeLoverAborn/static/js/runtime-main.9e6d69ef.js"
   },
   {
     "revision": "9c3ed713ad9b38877fa5abfb3c302a6f",
@@ -60,15 +60,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeLoverAborn/static/media/lover aborn 2024-02-052.72256e86.jpg"
   },
   {
-    "revision": "00792d26a1af8665615d616575c21c85",
-    "url": "/coffeeLoverAborn/static/media/lover aborn 2024-02-053.00792d26.jpg"
+    "revision": "e0ca2714f6da6accd88025aa7ab78e16",
+    "url": "/coffeeLoverAborn/static/media/lover tully 2024-06-163.e0ca2714.jpg"
   },
   {
-    "revision": "bc8df95ad4150f3a6875c487b39118c1",
-    "url": "/coffeeLoverAborn/static/media/lover aborn 2024-02-054.bc8df95a.jpg"
+    "revision": "d00cac72cbc1376298a08b9e4b1fe677",
+    "url": "/coffeeLoverAborn/static/media/lover tully 2024-07-014.d00cac72.jpg"
   },
   {
-    "revision": "e8345620398f990c8a54dbfb4d4c790f",
-    "url": "/coffeeLoverAborn/static/media/lover aborn 2024-02-055.e8345620.jpg"
+    "revision": "69d2990302a66585ee3bafc4716d8021",
+    "url": "/coffeeLoverAborn/static/media/lover tully 2024-07-015.69d29903.jpg"
   }
 ]);
