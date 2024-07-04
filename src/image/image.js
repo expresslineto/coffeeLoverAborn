@@ -4,14 +4,13 @@ import page3 from "./Aborn/lover aborn 2023-03-038.jpg";
 import page4 from "./Aborn/lover aborn 2023-03-039.jpg";
 import page5 from "./Aborn/lover aborn 2023-03-0310.jpg";
 import page6 from "./Aborn/lover aborn 2023-03-0311.jpg";
+
 import page7 from "./Aborn/lover aborn 2024-02-05.jpg"
 import page8 from "./Aborn/lover aborn 2024-02-052.jpg"
 
-import page9 from "./Aborn/lover aborn 2024-02-053.jpg"
-
-import page10 from "./Aborn/lover aborn 2024-02-054.jpg"
-
-import page11 from "./Aborn/lover aborn 2024-02-055.jpg"
+import page9 from "./Aborn/lover tully 2024-06-163.jpg"
+import page10 from "./Aborn/lover tully 2024-07-014.jpg"
+import page11 from "./Aborn/lover tully 2024-07-015.jpg"
 
 
 const listMenu = [{
