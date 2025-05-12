@@ -1,16 +1,17 @@
-import page1 from "./Aborn/lover aborn 2023-03-036.jpg";
-import page2 from "./Aborn/lover aborn 2023-03-037.jpg";
-import page3 from "./Aborn/lover aborn 2023-03-038.jpg";
-import page4 from "./Aborn/lover aborn 2023-03-039.jpg";
-import page5 from "./Aborn/lover aborn 2023-03-0310.jpg";
-import page6 from "./Aborn/lover aborn 2023-03-0311.jpg";
+import page1 from "./Aborn/a0 (1).jpg";
+import page2 from "./Aborn/a0 (2).jpg";
+import page3 from "./Aborn/a0 (3).jpg";
+import page4 from "./Aborn/a0 (4).jpg";
+import page5 from "./Aborn/a0 (5).jpg";
+import page6 from "./Aborn/aborn 2025 -05 back (1).jpg";
 
-import page7 from "./Aborn/lover aborn 2024-02-05.jpg"
-import page8 from "./Aborn/lover aborn 2024-02-052.jpg"
+import page7 from "./Aborn/aborn 2025 -05 back (2).jpg"
+import page8 from "./Aborn/aborn 2025 -05 back (3).jpg"
 
-import page9 from "./Aborn/lover tully 2024-06-163.jpg"
-import page10 from "./Aborn/lover tully 2024-07-014.jpg"
-import page11 from "./Aborn/lover tully 2024-07-015.jpg"
+import page9 from "./Aborn/aborn 2025 -05 back (4).jpg"
+import page10 from "./Aborn/aborn 2025 -05 back (5).jpg"
+import page11 from "./Aborn/aborn 2025 front (1).jpg"
+import page12 from "./Aborn/aborn 2025 front (2).jpg"
 
 
 const listMenu = [{
@@ -52,6 +53,10 @@ const listMenu = [{
     {
         page: "11",
         itemsImage: page11,
+    },
+    {
+        page: "12",
+        itemsImage: page12,
     },
 ];
 export default listMenu;
